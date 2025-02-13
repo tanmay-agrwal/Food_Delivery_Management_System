@@ -93,7 +93,7 @@ Ensure you have the following installed:
 ### 3️⃣ Running the Application
 1. Install required Python modules:
    ```python
-   pip install mysql-connector-pythonCREATE DATABASE demo;
+   pip install mysql-connector-python;
    ```
 2. Run the GUI application:
    ```python
