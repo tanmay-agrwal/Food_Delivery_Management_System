@@ -40,7 +40,7 @@ The Relational Mapping of the project demonstrates the table structure.
 ## 🖥 Graphical User Interface (GUI)
 The project includes a **Tkinter-based GUI** for order and customer management.
 
-<img src="https://github.com/tanmay-agrwal/Food_Delivery_Management_System/blob/main/diagrams/GUI.png" alt="GUI Screenshot" width="600"/>
+<img src="https://github.com/tanmay-agrwal/Food_Delivery_Management_System/blob/main/diagrams/GUI.png" alt="GUI Screenshot" width="300"/>
 
 ### GUI Functionalities
 - **Display Order Details** - Retrieve details of a specific order.
