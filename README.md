@@ -28,12 +28,12 @@ This project aims to build a centralized **Online Food Delivery Management Syste
 ### 📌 ER Diagram
 This Entity-Relationship (ER) Diagram visualizes the key entities and their relationships.
 
-<img src="https://github.com/tanmay-agrwal/Food_Delivery_Management_System/blob/main/diagrams/ER_Model.jpg" alt="ER Model" width="600"/>
+<img src="https://github.com/tanmay-agrwal/Food_Delivery_Management_System/blob/main/diagrams/ER_Model.jpg" alt="ER Model" width="450"/>
 
 ### 📌 Relational Mapping
 The Relational Mapping of the project demonstrates the table structure.
 
-<img src="https://github.com/tanmay-agrwal/Food_Delivery_Management_System/blob/main/diagrams/Relational_Mapping.jpg" alt="Relational Mapping" width="600"/>
+<img src="https://github.com/tanmay-agrwal/Food_Delivery_Management_System/blob/main/diagrams/Relational_Mapping.jpg" alt="Relational Mapping" width="450"/>
 
 ---
 
